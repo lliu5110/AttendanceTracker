@@ -80,10 +80,10 @@ Built for 1080 × 2400 (≈393 × 873 dp). All sizing is in `dp` with scrolling 
 
 ## Screenshots
 
-<img width="216" height="480" alt="Screenshot_2026-09-14-20-54-58-71_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/00dd6448-07cd-407c-933d-9d7c862e046a" />
-<img width="216" height="480" alt="Screenshot_2026-09-14-20-55-05-78_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/737b4302-3fe0-4429-b807-42a08c804420" />
-<img width="216" height="480" alt="Screenshot_2026-09-14-20-55-46-23" src="https://github.com/user-attachments/assets/1b5f4eb3-34f9-4d47-9211-807946b212b5" />
-<img width="216" height="480" alt="Screenshot_2026-09-14-20-55-52-37_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/b0c9435b-f5fb-4d17-8801-8385964e651f" />
+<img width="180" height="400" alt="Screenshot_2026-09-14-20-54-58-71_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/00dd6448-07cd-407c-933d-9d7c862e046a" />
+<img width="180" height="400" alt="Screenshot_2026-09-14-20-55-05-78_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/737b4302-3fe0-4429-b807-42a08c804420" />
+<img width="180" height="400" alt="Screenshot_2026-09-14-20-55-46-23" src="https://github.com/user-attachments/assets/1b5f4eb3-34f9-4d47-9211-807946b212b5" />
+<img width="180" height="400" alt="Screenshot_2026-09-14-20-55-52-37_da38f1c02d387487ac66390dc6064505" src="https://github.com/user-attachments/assets/b0c9435b-f5fb-4d17-8801-8385964e651f" />
 
 
 
